@@ -14,5 +14,5 @@ There are four steps:
 4. input:
    * input function is used for controlling the direction of snake. you can press 'q' to quit the game.
 6. logic:
-   * logic function is used for 
+   * logic function is used for detecting snake direction and generating another location of food when snake ate food.
 
