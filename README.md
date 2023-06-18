@@ -8,7 +8,7 @@ Here are three foodtype:
 1. F: the snake tail becomes 'o' and increase one tail when snake ate food ***F*** each time.
 2. Q: the snake tail becomes '@' and increase two tail when snake ate food ***Q*** each time.
 3. *: the snake tail becomes '+' and increase three tail when snake ate food * each time.
-* foodtype => tailtype ----- F => o, Q => @, * => +
+* foodtype => tailtype, F => o, Q => @, * => +
 
 There are four steps in workflow:
 1. Initialization:
