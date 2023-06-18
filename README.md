@@ -5,8 +5,8 @@ Snake game written in C++
 https://github.com/RickyChenTaiwan/Snake/assets/42162312/431a5c22-a0c7-4bbd-bccb-e06e26de6a2a
 
 Here are three foodtype:
-1. F: the snake tail becomes 'o' and increase one tail when snake ate food F each time.
-2. Q: the snake tail becomes '@' and increase two tail when snake ate food Q each time.
+1. F: the snake tail becomes 'o' and increase one tail when snake ate food ***F*** each time.
+2. Q: the snake tail becomes '@' and increase two tail when snake ate food ***Q*** each time.
 3. *: the snake tail becomes '+' and increase three tail when snake ate food * each time.
 * foodtype => tailtype ----- F => o, Q => @, * => +
 
